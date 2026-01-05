@@ -1,6 +1,6 @@
 # Breast Cancer Classifier
 
-Breast cancer prediction using classification models on tabular clinical data from the Breast Cancer Wisconsin (Diagnostic) dataset. [web:32]
+Breast cancer prediction using classification models on tabular clinical data from the Breast Cancer Wisconsin (Diagnostic) dataset. 
 
 This repository contains a Jupyter notebook that trains and evaluates
 Logistic Regression and Random Forest models to predict breast cancer
@@ -8,7 +8,7 @@ Logistic Regression and Random Forest models to predict breast cancer
 
 Both models were evaluated using metrics such as accuracy and ROC–AUC,
 and feature importance was examined to understand which variables
-contributed most to the predictions. [web:32]
+contributed most to the predictions. 
 
 ## Results
 
