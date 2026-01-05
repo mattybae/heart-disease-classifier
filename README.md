@@ -13,6 +13,6 @@ This dataset shows that tumour size (radius in mm) is positively correlated with
 
 ## File
 
-- `heart_disease_prediction_classifier_model.ipynb`: EDA, preprocessing,
+- `breast_cancer_prediction_classifier_model.ipynb`: EDA, preprocessing,
   model training, and evaluation.
 
