@@ -7,9 +7,9 @@ features.
 
 Logistic Regression and Random Forest models were evaluated using Accuracy and ROC-AUC, and importance of features.
 
-# Conclusion 
+## Conclusion 
 
-This dataset shows that tumour size (radius in mm) is positively correlated with whether a cancer is malignant or benign. The above models were also shown to be good predictors for breast cancer
+This dataset shows that tumour size (radius in mm) is positively correlated with whether a cancer is malignant or benign. The above models were also shown to be good predictors for breast cancer.
 
 ## File
 
